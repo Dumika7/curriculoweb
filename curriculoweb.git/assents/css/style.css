@@ -1,0 +1,13 @@
+.foto-perfil {
+    width: 250px;
+    height: 250px;
+    border-radius: 30%;
+    object-fit: cover;
+    position: relative;
+    z-index: 2;
+    border: 1px solid black;
+}
+body {
+    background-color: antiquewhite;
+}
+.informaçoes
